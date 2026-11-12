@@ -423,7 +423,7 @@ def gstr2b(docs: list[Doc], seed: int = 11) -> tuple[dict, dict[str, str]]:
         if rng.random() < 0.3:  # portal formatting differs from the printed number
             inum = inum.replace("/", "-")
         by_supplier.setdefault(d.supplier[1], []).append(_inv_json(d, inum, tax_scale, itcavl))
-    for k in range(6):  # purchases on the portal that never reached the books
+    for _ in range(6):  # purchases on the portal that never reached the books
         name, state, pan = rng.choice(SUPPLIERS)
         g = G.make(state, pan)
         no = f"EXT/{rng.randint(1, 9999):04d}/26-27"
