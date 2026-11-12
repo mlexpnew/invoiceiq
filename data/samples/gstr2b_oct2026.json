@@ -1,0 +1,319 @@
+{
+ "data": {
+  "gstin": "29AACCN4821K1Z9",
+  "rtnprd": "102026",
+  "docdata": {
+   "b2b": [
+    {
+     "ctin": "29AADCB7741R1ZX",
+     "trdnm": "Bluepeak Logistics Pvt Ltd",
+     "inv": [
+      {
+       "inum": "BL/0232/26-27",
+       "dt": "01-04-2026",
+       "val": 274713.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 231906.74,
+         "igst": 0.0,
+         "cgst": 21402.89,
+         "sgst": 21402.89
+        }
+       ]
+      },
+      {
+       "inum": "BL/9574/26-27",
+       "dt": "03-06-2026",
+       "val": 23681.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 20068.3,
+         "igst": 0.0,
+         "cgst": 1806.15,
+         "sgst": 1806.15
+        }
+       ]
+      },
+      {
+       "inum": "EXT/0246/26-27",
+       "dt": "15-09-2026",
+       "val": 39653.5,
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 33604.66,
+         "igst": 6048.84,
+         "cgst": 0,
+         "sgst": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "07AAIFY1178F1ZZ",
+     "trdnm": "Yamuna Stationery Mart",
+     "inv": [
+      {
+       "inum": "YS/8152/26-27",
+       "dt": "17-08-2026",
+       "val": 251669.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 213502.04,
+         "igst": 38167.13,
+         "cgst": 0.0,
+         "sgst": 0.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "36AACCC3390G1Z0",
+     "trdnm": "Charminar IT Solutions",
+     "inv": [
+      {
+       "inum": "CI/7942/26-27",
+       "dt": "12-07-2026",
+       "val": 289506.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 245344.07,
+         "igst": 44161.93,
+         "cgst": 0.0,
+         "sgst": 0.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "33AAHCM4456D1ZO",
+     "trdnm": "Marina Tech Distributors",
+     "inv": [
+      {
+       "inum": "MT/9516/26-27",
+       "dt": "13-10-2026",
+       "val": 61081.0,
+       "pos": "29",
+       "itcavl": "N",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 52127.66,
+         "igst": 8953.44,
+         "cgst": 0.0,
+         "sgst": 0.0
+        }
+       ]
+      },
+      {
+       "inum": "EXT/5346/26-27",
+       "dt": "15-09-2026",
+       "val": 22113.41,
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 18740.18,
+         "igst": 3373.23,
+         "cgst": 0,
+         "sgst": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "29AALFK5520Q1ZN",
+     "trdnm": "Kaveri Electronics LLP",
+     "inv": [
+      {
+       "inum": "KE/3295/26-27",
+       "dt": "09-07-2026",
+       "val": 7143.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 6675.6,
+         "igst": 0.0,
+         "cgst": 233.64,
+         "sgst": 233.64
+        }
+       ]
+      },
+      {
+       "inum": "EXT/0976/26-27",
+       "dt": "15-09-2026",
+       "val": 3958.68,
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 3354.81,
+         "igst": 603.87,
+         "cgst": 0,
+         "sgst": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "33AABCC8802E1Z4",
+     "trdnm": "Coromandel Beverages Ltd",
+     "inv": [
+      {
+       "inum": "CB-2787-26-27",
+       "dt": "19-09-2026",
+       "val": 27081.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 22950.22,
+         "igst": 4131.04,
+         "cgst": 0.0,
+         "sgst": 0.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "27AAGFW2245N1ZQ",
+     "trdnm": "Western Ghats Furniture",
+     "inv": [
+      {
+       "inum": "WG/8515/26-27",
+       "dt": "10-04-2026",
+       "val": 20553.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 17585.11,
+         "igst": 2968.14,
+         "cgst": 0.0,
+         "sgst": 0.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "36AACCC3390G1ZS",
+     "trdnm": "Charminar IT Solutions",
+     "inv": [
+      {
+       "inum": "CI/0168/26-27",
+       "dt": "06-05-2026",
+       "val": 501145.0,
+       "pos": "29",
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 426114.57,
+         "igst": 75030.5,
+         "cgst": 0.0,
+         "sgst": 0.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "29AAKFD3309L1Z6",
+     "trdnm": "Deccan Packaging Co",
+     "inv": [
+      {
+       "inum": "EXT/9825/26-27",
+       "dt": "15-09-2026",
+       "val": 3708.91,
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 3143.14,
+         "igst": 565.77,
+         "cgst": 0,
+         "sgst": 0
+        }
+       ]
+      },
+      {
+       "inum": "EXT/8506/26-27",
+       "dt": "15-09-2026",
+       "val": 12836.67,
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 10878.53,
+         "igst": 1958.14,
+         "cgst": 0,
+         "sgst": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ctin": "29AAJFM6618B1Z9",
+     "trdnm": "Mandovi Facility Services",
+     "inv": [
+      {
+       "inum": "EXT/8189/26-27",
+       "dt": "15-09-2026",
+       "val": 2565.98,
+       "itcavl": "Y",
+       "items": [
+        {
+         "num": 1,
+         "rt": 18,
+         "txval": 2174.56,
+         "igst": 391.42,
+         "cgst": 0,
+         "sgst": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
