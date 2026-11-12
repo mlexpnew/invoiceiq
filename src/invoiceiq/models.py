@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from datetime import date
-from enum import Enum
+from enum import StrEnum
 
 from pydantic import BaseModel, Field
 
@@ -41,7 +41,7 @@ class Invoice(BaseModel):
         return round(self.cgst + self.sgst + self.igst, 2)
 
 
-class Severity(str, Enum):
+class Severity(StrEnum):
     ERROR = "error"  # blocks posting to books / ITC claim
     WARNING = "warning"  # needs a human look
 
@@ -54,7 +54,7 @@ class Issue(BaseModel):
     invoice_no: str = ""
 
 
-class ReconStatus(str, Enum):
+class ReconStatus(StrEnum):
     MATCHED = "matched"
     VALUE_MISMATCH = "value_mismatch"  # both sides have it, tax differs
     MISSING_IN_2B = "missing_in_2b"  # in books, supplier has not filed: ITC at risk
