@@ -1,8 +1,10 @@
-.venv/
 __pycache__/
 *.pyc
+.venv/
 .env
-data/raw/
-data/processed/
-.ipynb_checkpoints/
-
+eval_results/
+bench/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
